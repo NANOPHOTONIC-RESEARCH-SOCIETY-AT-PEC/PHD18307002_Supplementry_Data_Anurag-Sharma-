@@ -1,8 +1,6 @@
-## Title: Mathematical model tailoring photon-phonon scattering to achieve Multispectral transmission in PhoXonic Crystal (PxC) waveguide
 
 ## Title: The Multispectral Transmission through Phoxonic Crystal Slot-Waveguide at Mid-wave Infrared (MWIR) frequencies.
 
-[PHD18307002_Supplementry_Data_Anurag-Sharma](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/SUPPLEMENTARY%20DATA.pdf)
 
 Anurag Sharma,a,b,* Jyoti Kedia,a Neena Gupta,a
 aPunjab Engineering College (Deemed to be University), Sector-12, Chandigarh-160012, India
