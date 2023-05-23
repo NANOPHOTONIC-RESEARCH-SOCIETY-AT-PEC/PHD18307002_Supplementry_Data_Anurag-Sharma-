@@ -1,5 +1,5 @@
 
-## Title: The Multispectral Transmission through Phoxonic Crystal Slot-Waveguide at Mid-wave Infrared (MWIR) frequencies.
+## Title: Mathematical model for tailoring photon-phonon scattering energy loss to achieve Multispectral transmission through Nano-Crystals based waveguide devices
 
 
 Anurag Sharma,a,b,* Jyoti Kedia,a Neena Gupta,a
