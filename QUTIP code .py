@@ -65,7 +65,7 @@ M2 = Qobj(np.array([[0, 1,  1],
 #M3 = Qobj(np.array([[0, 1, -1],
                   #  [-1, 0, 1],
                   #  [1, -1, 0]]))
-# M3 is the modelled thermal density matrix analytically modelled
+# M3 is the analytically modelled thermal density matrix
 M3 = Qobj(np.array([[0.363+1j*0.166, 0, 0],
                     [0, 0.357+(-1j)*0.013, 0],
                     [0, 0, 0.280-01j*0.153]]))
