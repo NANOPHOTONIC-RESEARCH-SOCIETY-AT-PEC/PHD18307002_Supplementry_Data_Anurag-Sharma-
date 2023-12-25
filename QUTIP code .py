@@ -1,3 +1,4 @@
+"Mathematical Modelling of Photonic-Phononic Scattering Suppression in Nanophoxonic Waveguide for MWIR frequency range"
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan 25 23:24:05 2022
