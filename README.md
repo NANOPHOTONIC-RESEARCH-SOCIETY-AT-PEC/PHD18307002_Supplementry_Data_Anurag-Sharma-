@@ -1,5 +1,5 @@
 
-## Title: A Mathematical Model for Ultra-Low Loss On-Chip Waveguiding with Phoxonic Crystals in MWIR
+## Title: Mathematical Modelling of Photonic-Phononic Scattering Suppression in Nanophoxonic Waveguide for MWIR frequency range
 
 Anurag Sharma,a,b,* Jyoti Kedia,a Neena Gupta,a
 aPunjab Engineering College (Deemed to be University), Sector-12, Chandigarh-160012, India
