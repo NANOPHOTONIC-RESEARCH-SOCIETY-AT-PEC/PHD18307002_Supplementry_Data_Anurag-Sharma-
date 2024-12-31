@@ -18,6 +18,3 @@
 [Anurag Sharma, Jyoti Kedia, Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).](https://doi.org/10.1016/j.matpr.2020.05.133)
 
 
-
-- [Supplementry Data](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/Supplementry%20data.pdf)
-- [Qutip code](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/QUTIP%20code%20.py) to build the hamiltonian of mirror- symmetric phoxonic system
