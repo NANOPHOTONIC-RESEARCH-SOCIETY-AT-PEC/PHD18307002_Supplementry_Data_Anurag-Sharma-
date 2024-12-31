@@ -1,13 +1,4 @@
 
-## Title: Mathematical Modelling of Photonic-Phononic Scattering Suppression in Nanophoxonic Waveguide for MWIR frequency range
-
-Anurag Sharma,a,b,* Jyoti Kedia,a Neena Gupta,a
-aPunjab Engineering College (Deemed to be University), Sector-12, Chandigarh-160012, India
-bOptical Allied and Engineering Pvt. Ltd., Bangalore-560099, India
-
-- [Supplementry Data](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/Supplementry%20data.pdf)
-- [Qutip code](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/QUTIP%20code%20.py) to build the hamiltonian of mirror- symmetric phoxonic system
-
 # [Photonics Research Group AT PEC](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB)
 
 # RELATED JOURNAL PUBLICATIONS
@@ -25,3 +16,8 @@ bOptical Allied and Engineering Pvt. Ltd., Bangalore-560099, India
 
 # POSTERs
 [Anurag Sharma, Jyoti Kedia, Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).](https://doi.org/10.1016/j.matpr.2020.05.133)
+
+
+
+- [Supplementry Data](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/Supplementry%20data.pdf)
+- [Qutip code](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/QUTIP%20code%20.py) to build the hamiltonian of mirror- symmetric phoxonic system
