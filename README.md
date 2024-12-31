@@ -11,6 +11,9 @@ bOptical Allied and Engineering Pvt. Ltd., Bangalore-560099, India
 # [Photonics Research Group AT PEC](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB)
 
 # RELATED JOURNAL PUBLICATIONS
+
+[Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Mathematical model for enhancing midwave infrared transmission using phoxonic crystals." Physica Scripta, vol. 100, no. 1, 2025, p. 0152a1. IOP Publishing, https://doi.org/10.1088/1402-4896/ada073.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/Sharma_2025_Phys._Scr._100_0152a1.pdf)
+
 [Anurag Sharma, Jyoti Kedia, Neena Gupta,,Multispectral transmission through Phoxonic crystal slot-waveguide at midwave infrared frequencies, Opt. Eng. 62(4), 047101 (2023), doi: 10.1117/1.OE.62.4.047101.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/OE-20221178G_online.pdf)
 
 [Anurag Sharma, Jyoti Kedia, Neena Gupta, "Emerging nanostructured infrared absorbers enabling cost-effective image sensing: a review," Opt. Eng. 60(9), 090901 (2021), doi: 10.1117/1.OE.60.9.090901.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Brochure/OE-20210686V_online.pdf)
