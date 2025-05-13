@@ -3,6 +3,8 @@
 
 # RELATED JOURNAL PUBLICATIONS
 
+[Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Numerical Demonstration of Low-Dark-Current Photodetector using Phoxonic Crystal Waveguide for Midwave Infrared (MWIR) Sensing." Sensors and Actuators A: Physical, Volume 391, 2025, 116634,ISSN 0924-4247, https://doi.org/10.1016/j.sna.2025.116634.](https://www.linkedin.com/in/designerguy13atpec/overlay/1746186590359/single-media-viewer?type=DOCUMENT&profileId=ACoAABXDomgBi2gdTF9jLNJfvZI-6-BPrn50DJE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGLnUli6SRqqlMkvaRrGI4w%3D%3D)
+
 [Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Mathematical model for enhancing midwave infrared transmission using phoxonic crystals." Physica Scripta, vol. 100, no. 1, 2025, p. 0152a1. IOP Publishing, https://doi.org/10.1088/1402-4896/ada073.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/Sharma_2025_Phys._Scr._100_0152a1.pdf)
 
 [Anurag Sharma, Jyoti Kedia, Neena Gupta,,Multispectral transmission through Phoxonic crystal slot-waveguide at midwave infrared frequencies, Opt. Eng. 62(4), 047101 (2023), doi: 10.1117/1.OE.62.4.047101.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/OE-20221178G_online.pdf)
